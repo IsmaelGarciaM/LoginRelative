@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_empty">Error: Cadena vacia</string>
+    <string name="no_digit">Error: Debe contener un numero</string>
+    <string name="no_mayusc">Error: Debe contener mayuscula/minuscula</string>
+    <string name="length">Error: Debe tener 8 caracteres al menos</string>
+</resources>
